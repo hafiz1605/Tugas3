@@ -1,3 +1,17 @@
+# Sinyal RF ( Radio Frequency )
+
+Radio Frequency (RF) adalah gelombang radiasi elektromagnetik yang berpropagasi (memancar dengan arah tertentu) di udara (space) pada alokasi frekuensi yang berkisar antara 30 Hz sampai 300 GHz. Sinyal RF terutama banyak digunakan dalam teknologi Komunikasi dan transmisi data. Alokasi penggunaan range frekuensi untuk transmisi sinyal RF berbeda-beda untuk tiap aplikasi teknologi komunikasi,misalnya saja untuk transmisi radio digunakan range frekuensi 30-300 MHz, untuk transmisi stasiun televisi digunakan Ultra High Frequency (UHF) dengan range frekuensi 0,3-3 GHz, untuk komunikasi selular GSM ( Global System for Mobile ) digunakan frekuensi 900 MHz dan 1800 MHz, dan frekuensi 2,4 GHz untuk transmisi wireless LAN(Local Area Network )
+
+## Jenis 
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hafiz1605/Tugas3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
