@@ -3,13 +3,14 @@
 ## A. Sinyal RF ( RadioFrequency )
 ![Image](zz.jpeg)
 
-  Radio Frequency (RF) adalah gelombang radiasi elektromagnetik yang berpropagasi (memancar dengan arah tertentu) di udara (space) pada alokasi frekuensi yang berkisar antara 30 Hz sampai 300 GHz. Sinyal RF terutama banyak digunakan dalam teknologi Komunikasi dan transmisi data. Alokasi penggunaan range frekuensi untuk transmisi sinyal RF berbeda-beda untuk tiap aplikasi teknologi komunikasi,misalnya saja untuk transmisi radio digunakan range frekuensi 30-300 MHz, untuk transmisi stasiun televisi digunakan Ultra High Frequency (UHF) dengan range frekuensi 0,3-3 GHz, untuk komunikasi selular GSM ( Global System for Mobile ) digunakan frekuensi 900 MHz dan 1800 MHz, dan frekuensi 2,4 GHz untuk transmisi wireless LAN(Local Area Network )
-   
-   Sensor RF mempunyai 2 perangkat elektronik untuk mengirimkan sinyal gelombang elektromagnetik yang terdapat pada perangkat transmitter dan kemudian untuk menerima sinyal gelombang elektromagnetik tersebut yang terdapat pada perangkat receiver. Sensor RF sering digunakan pada pengendali jarak jauh tanpa kabel (remote control) dengan menggunakan Amplitude Shift Keying (ASK). Frekuensi yang digunakan pada proses pengiriman dan penerimaan harus sama agar tidak adanya kegagalan komunikasi yaitu sebesar 315 MHz. 
-   
-   Radio Frequensi (RF) mempunyai frekuensi sinyal yaitu dari 300 MHz sampai dengan 3 GHz (3.000 MHz) dan ketika ada halangan yang menghalangi sinyal RF, maka sinyal tersebut tidak akan terganggu, dan juga RF tidak akan interface oleh sinyal RF lainnya.
+ RadioFrequency (RF) adalah gelombang radiasi elektromagnetik yang berpropagasi (memancar dengan arah tertentu) di udara (space) pada alokasi frekuensi yang berkisar antara 30 Hz sampai 300 GHz. Sinyal RF terutama banyak digunakan dalam teknologi Komunikasi dan transmisi data. Alokasi penggunaan range frekuensi untuk transmisi sinyal RF berbeda-beda untuk tiap aplikasi teknologi komunikasi,misalnya saja untuk transmisi radio digunakan range frekuensi 30-300 MHz, untuk transmisi stasiun televisi digunakan Ultra High Frequency (UHF) dengan range frekuensi 0,3-3 GHz, untuk komunikasi selular GSM ( Global System for Mobile ) digunakan frekuensi 900 MHz dan 1800 MHz, dan frekuensi 2,4 GHz untuk transmisi wireless LAN(Local Area Network )
 
-contoh, RF( Radio Frequency ) paling sering digunakan dalam produk volume sedang dan rendah untuk aplikasi konsumen seperti pembuka pintu garasi, sistem alarm atau pemantauan nirkabel, remote control industri , aplikasi sensor pintar, dan sistem otomasi rumah nirkabel .
+Sensor RF mempunyai 2 perangkat elektronik untuk mengirimkan sinyal gelombang elektromagnetik yang terdapat pada perangkat transmitter dan kemudian untuk menerima sinyal gelombang elektromagnetik tersebut yang terdapat pada perangkat receiver. Sensor RF sering digunakan pada pengendali jarak jauh tanpa kabel (remote control) dengan menggunakan Amplitude Shift Keying (ASK). Frekuensi yang digunakan pada proses pengiriman dan penerimaan harus sama agar tidak adanya kegagalan komunikasi yaitu sebesar 315 MHz.
+
+RadioFrequensi (RF) mempunyai frekuensi sinyal yaitu dari 300 MHz sampai dengan 3 GHz (3.000 MHz) dan ketika ada halangan yang menghalangi sinyal RF, maka sinyal tersebut tidak akan terganggu, dan juga RF tidak akan interface oleh sinyal RF lainnya.
+
+contoh, RF( RadioFrequency ) paling sering digunakan dalam produk volume sedang dan rendah untuk aplikasi konsumen seperti pembuka pintu garasi, sistem alarm atau pemantauan nirkabel, remote control industri , aplikasi sensor pintar, dan sistem otomasi rumah nirkabel .
+
 
 ## Jenis Modul RF ( RadioFrequency )
 - modul pemancar
