@@ -71,8 +71,7 @@ memanfaatkan detektor infra red masing-masing benda yang dipancarkan infra red b
 ## Prinsip Kerja Bluetooth
 Bluetooth sebenarnya muncul ditujukan guna mengatasi sejumlah kendala komunikasi data antar peranti elektronik yang lebih dahulu hadir, Bluetooth bekerja memakai frekuensi radio. Beda dengan inframerah yang mendasarkan diri pada gelombang cahaya. Jaringan Bluetooth bekerja pada frekuensi 2.402 Giga Hertz hingga dengan 2.480 Giga Hertz. Dibangkitkan dengan daya listrik kecil sehingga memberi batas daya jangkaunya melulu sampai 10 meter.
 
-Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perlengkapan elektronik yang digunakan untuk kepentingan industri, ilmiah, dan medis. Kecepatan transfer data Bluetooth rilis 1.0 ialah 1 mega bit per detik (Mbps), sementara versi 2.0 dapat menangani pertukaran data sampai 3 Mbps.
-- bluetooth memakai frekuensi radio (RF) (2,4 GHz) guna membroadcast sinyal, bluetooth dapat menjebol benda seperti dinding sejauh tidak mempunyai skin depth yang tinggi.
+Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perlengkapan elektronik yang digunakan untuk kepentingan industri, ilmiah, dan medis. Kecepatan transfer data Bluetooth rilis 1.0 ialah 1 mega bit per detik (Mbps), sementara versi 2.0 dapat menangani pertukaran data sampai 3 Mbps, bluetooth memakai frekuensi radio (RF) (2,4 GHz) guna membroadcast sinyal, bluetooth dapat menjebol benda seperti dinding sejauh tidak mempunyai skin depth yang tinggi.
 
 # 4. Wi-Fi
 ![Image](zzzzz.jpg)
