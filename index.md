@@ -32,7 +32,7 @@ contoh, RF( Radio Frequency ) paling sering digunakan dalam produk volume sedang
 3. Perambatan radio melalui sebuah fasilitas lebih rentan.
 
 # 2. infared (Inframerah)
-![Image](zzz.jpeg)
+![Image](zzz.png)
 
 Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi inframerah memiliki jangkauan tiga "order" dan memiliki panjang gelombang antara 700  nm dan 1 mm, Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
 
@@ -62,7 +62,7 @@ memanfaatkan detektor infra red masing-masing benda yang dipancarkan infra red b
 3. Pengiriman data dengan inframerah dapat dikatakan lebih lambat dibandingkan dengan rekannya Bluetooth.
 
 # 3. Bluetooth
-![Image](zzzz.jpeg)
+![Image](zzzz.png)
 
   Bluetooth adalah teknologi yang memungkinkan dua perlengkapan yang kompatibel, seperti telepon dan PC guna berkomunikasi tanpa kabel dan tidak membutuhkan koneksi drainase yang terlihat, Bluetooth beroperasi dalam pita frekuensi 2,4 GHz (antara 2.402 GHz hingga 2.480 GHz) yang dapat menyediakan layanan komunikasi data dan suara secara real-time antara host to host bluetooth dengan jarak cakupan layanan yang terbatas.Bluetooth bisa berupa card yang format dan kegunaannya hampir sama dengan card yang dipakai untuk wireless local lokasi network (WLAN) dimana memakai frekuensi radio standar IEEE 802.11, hanya saja pada bluetooth mempunyai cakupan jarak layanan yang lebih pendek dan keterampilan transfer data yang lebih rendah.
   
@@ -75,7 +75,7 @@ Penetapan frekuensi ini sudah distandardisasi secara internasional untuk perleng
 - bluetooth memakai frekuensi radio (RF) (2,4 GHz) guna membroadcast sinyal, bluetooth dapat menjebol benda seperti dinding sejauh tidak mempunyai skin depth yang tinggi.
 
 # 4. Wi-Fi
-![Image](zzzzz.jpeg)
+![Image](zzzzz.jpg)
 
   Wi-Fi adalah sebuah teknologi yang memanfaatkan peralatan elektronik untuk bertukar data secara nirkabel (menggunakan gelombang radio) melalui sebuah jaringan komputer, termasuk koneksi Internet berkecepatan tinggi, WiFi juga merupakan Jaringan Area Lokal atau LAN (Local Area Network) yang tidak memerlukan kabel dengan koneksi kecepatan yang tinggi. WiFi sering disebut juga dengan WLAN atau Wireless Local Area Network, Sinyal Radio adalah kunci yang memungkinan komunikasi dalam jaringan WiFi. 
   Teknologi WiFi ini menggunakan dua frekuensi gelombang radio dalam mengirimkan dan menerima sinyal Radio. Kedua Frekuensi gelombang radio tersebut adalah Frekuensi 2,4GHz dan 5GHz.
