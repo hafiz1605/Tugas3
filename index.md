@@ -13,14 +13,14 @@ contoh, RF( RadioFrequency ) paling sering digunakan dalam produk volume sedang 
 
 
 ### Jenis Modul RF ( RadioFrequency )
-- modul pemancar
-  Modul pemancar RF adalah sub-unit PCB kecil yang mampu mentransmisikan gelombang radio dan memodulasi gelombang tersebut untuk membawa data.
-- modul penerima
-  Modul penerima RF menerima sinyal RF termodulasi, dan mendemodulasinya .
-- modul transceiver
-  Modul transceiver RF menggabungkan pemancar dan penerima. 
-- Modul Sistem pada sebuah chip (SoC)
-  Modul SoC sama dengan modul transceiver, tetapi sering kali dibuat dengan mikrokontroler onboard. Mikrokontroler biasanya digunakan untuk menangani paket data radio atau     mengelola protokol seperti modul yang sesuai dengan IEEE 802.15.4 .
+1. modul pemancar
+   Modul pemancar RF adalah sub-unit PCB kecil yang mampu mentransmisikan gelombang radio dan memodulasi gelombang tersebut untuk membawa data.
+2. modul penerima
+   Modul penerima RF menerima sinyal RF termodulasi, dan mendemodulasinya .
+3. modul transceiver
+   Modul transceiver RF menggabungkan pemancar dan penerima. 
+4. Modul Sistem pada sebuah chip (SoC)
+   Modul SoC sama dengan modul transceiver, tetapi sering kali dibuat dengan mikrokontroler onboard. Mikrokontroler biasanya digunakan untuk menangani paket data radio atau        mengelola protokol seperti modul yang sesuai dengan IEEE 802.15.4 .
 
 ### Kelebihan Sinyal RF (RadioFrequency)
 1. Menjangkau jarak yang relatif jauh. Garis pandangnya dapat mencapai 20 mil.
@@ -38,10 +38,10 @@ contoh, RF( RadioFrequency ) paling sering digunakan dalam produk volume sedang 
 Inframerah adalah radiasi elektromagnetik dari panjang gelombang lebih panjang dari cahaya tampak, tetapi lebih pendek dari radiasi gelombang radio. Radiasi inframerah memiliki jangkauan tiga "order" dan memiliki panjang gelombang antara 700  nm dan 1 mm, Inframerah ditemukan secara tidak sengaja oleh Sir William Herschell, astronom kerajaan Inggris ketika ia sedang mengadakan penelitian mencari bahan penyaring optis yang akan digunakan untuk mengurangi kecerahan gambar matahari pada teleskop tata surya.
 
 ## Jenis-jenis inframerah berdasarkan panjang gelombang
-- Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
-- Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
-- Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
-Sinar infrared ada pada cahaya api,cahaya matahari, radiator kendaraan atau pantulan jalan aspal yang terpapar panas.
+1. Inframerah jarak dekat dengan panjang gelombang 0.75 – 1.5 µm.
+2. Inframerah jarak menengah dengan panjang gelombang 1.50 – 10 µm.
+3. Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm.
+   Sinar infrared ada pada cahaya api,cahaya matahari, radiator kendaraan atau pantulan jalan aspal yang terpapar panas.
 
 ## Prinsip Kerja Infrared
 memanfaatkan detektor infra red masing-masing benda yang dipancarkan infra red bakal memantulkan dan atau menyerap infra red sampai-sampai detektor menciduk panjang gelombang yang bertolak belakang sesuai suhu yang dikeluarkan benda,infrared memakai sinar guna memancarkan sinyal ,seperti tv remote ,infrared tidak bisa tembus benda yang menghalanginya untuk mencapai receiver atau perlu pantulan ,karena sifatnya cahaya .
