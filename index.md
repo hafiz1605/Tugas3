@@ -108,8 +108,10 @@ alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video,
    5. Standarisasi 802.11ac
      Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah.   
    
-# 2. Encoding   
-Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses yang terlibat (data dan sinyal) transmisi data.
+# 2. Encoding  
+![Image](zx.webp)
+
+  Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses yang terlibat (data dan sinyal) transmisi data, Pengkodean karakter atau pengkodean karakter disebut, terdiri dari kode yang pasang urutan karakter dari kumpulan dengan sesuatu yang lain. Sebagai urutan bilangan natural, oktet atau pulsa elektrik. jadi encoding adalah gambaran satu set password ke set sandi lain.
 
 ## Macam-Macam Kode
 - Kode Baudot
@@ -123,12 +125,25 @@ Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses y
 - Kode EBCID.
 Menggunakan 8 bit perkarakter dengan 256 kombinasi karakter.
 
-## Teknik Encoding:
+## Ketentuan Dalam Proses Encoding
+1. Unipolar : Semua elemen-elemen sinyal dalam bentuk yang sama
+2. Polar : Satu state logic dinyatakan oleh tegangan positif dan sebaliknya oleh tegangan negatif.
+3. Rating Data : Rating data transmisi data dalam bit per secon
+4. Durasi atau panjang suatu bit Waktu yang dibutuhkan pemancar untuk memancarkan bit.
+5. Rating modulasi : Rating dimana level sinyal berubah dan diukur dalam bentuk baud=elemen-elemen sinyal per detik
+6. Tanda dan ruang : Biner 1 dan biner 0 berturut-turut
 
-Digital Data, Analog Signal (ASK, FSK, PSK, QAM)
-Analog Data, Analog Signal (AM, FM, PM)
-Analog Data, Digital Signal (PCM, DM)
-Digital Data, Digital Signal (NRZ, Manchester, Bi-Polar, Bi-Phase)
+## Teknik Encoding:
+- Digital Data, Analog Signal (ASK, FSK, PSK, QAM)
+- Analog Data, Analog Signal (AM, FM, PM)
+- Analog Data, Digital Signal (PCM, DM)
+- Digital Data, Digital Signal (NRZ, Manchester, Bi-Polar, Bi-Phase)
+
+### Faktor yang mempengaruhi keberhasilan sinyal yang masuk:
+- SNR 🡪 SNR semakin tinggi, error rate semakin rendah
+- Data rate 🡪 data rate semakin tinggi, error rate semakin tinggi
+- Bandwidth 🡪 bandwidth semakin tinggi, data rate semakin tinggi
+- Skema encoding
 
 ### Sinyal Analog
   Sinyal analog adalah sinyal data dalam bentuk gelombang kontinyu, yang membawa informasi dengan mengubah karakteristik gelombang. Dua parameter-karakteristik penting yang dimiliki oleh sinyal analog amplitudo dan frekuensi, Sinyal analog biasanya diwakili oleh gelombang sinus, mengingat gelombang sinus merupakan dasar untuk semua bentuk sinyal analog, Gelombang pada sinyal analog yang umumnya berbentuk gelombang sinus memiliki tiga variabledasar, yaitu amplitudo, frekuensi dan fase.
