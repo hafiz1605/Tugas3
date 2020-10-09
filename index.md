@@ -113,7 +113,7 @@ alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video,
 
   Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses yang terlibat (data dan sinyal) transmisi data, Pengkodean karakter atau pengkodean karakter disebut, terdiri dari kode yang pasang urutan karakter dari kumpulan dengan sesuatu yang lain. Sebagai urutan bilangan natural, oktet atau pulsa elektrik. jadi encoding adalah gambaran satu set password ke set sandi lain.
 
-## Macam-Macam Kode
+### Macam-Macam Kode
 - Kode Baudot
   Berawal dari kode morse. Ada kode 4-an, 5-an, 6-an, dan 8-an yang digunakan untuk pengiriman telegraph yang disimpan di pita berupa lubang tutup. Untuk lubang sebanyak 6x      berturut-turut disebut sebagai kode 6-an.
 - Standard Code (Americank figure. for Information Interchange).
@@ -125,7 +125,7 @@ alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video,
 - Kode EBCID.
 Menggunakan 8 bit perkarakter dengan 256 kombinasi karakter.
 
-## Ketentuan Dalam Proses Encoding
+### Ketentuan Dalam Proses Encoding
 1. Unipolar : Semua elemen-elemen sinyal dalam bentuk yang sama
 2. Polar : Satu state logic dinyatakan oleh tegangan positif dan sebaliknya oleh tegangan negatif.
 3. Rating Data : Rating data transmisi data dalam bit per secon
@@ -133,7 +133,7 @@ Menggunakan 8 bit perkarakter dengan 256 kombinasi karakter.
 5. Rating modulasi : Rating dimana level sinyal berubah dan diukur dalam bentuk baud=elemen-elemen sinyal per detik
 6. Tanda dan ruang : Biner 1 dan biner 0 berturut-turut
 
-## Teknik Encoding:
+### Teknik Encoding:
 - Digital Data, Analog Signal (ASK, FSK, PSK, QAM)
 - Analog Data, Analog Signal (AM, FM, PM)
 - Analog Data, Digital Signal (PCM, DM)
