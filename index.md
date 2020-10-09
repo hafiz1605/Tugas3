@@ -106,6 +106,49 @@ alat yang dapat memakai Wi-Fi (seperti komputer pribadi, konsol permainan video,
     Standarisasi WiFi 802.11n adalah standar yang paling umum digunakan saat ini dan kompatibel dengan standarisasi lainnya seperti standarisasi 802.11a, b dan g, Standarisasi 802.11n dilaporkan dapat mencapai kecepatan setinggi 600 megabit per detik, WiFi 802.11n menggunakan pita frekuensi 2,4GHz dan 5GHz.
     
    5. Standarisasi 802.11ac
-     Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah. 
+     Standarisasi WiFi 802.11ac ini kompatibel dengan 802.11n. Dengan kata lain, WiFi 802.11ac ini juga kompatibel dengan standarisasi WiFi lainnya juga. Standarisasi WiFi 802.11ac menggunakan pita frekuensi 5 GHz dengan kecepatan hingga 1,3 Gigabit per detik pada satu aliran jalur, namun pada kenyataannya mungkin lebih rendah.   
    
-[Link](url) and ![Image](src)
+# 2. Encoding   
+Pengkodean adalah teknik yang dilakukan untuk memberikan penekanan pada proses yang terlibat (data dan sinyal) transmisi data.
+
+## Macam-Macam Kode
+- Kode Baudot
+  Berawal dari kode morse. Ada kode 4-an, 5-an, 6-an, dan 8-an yang digunakan untuk pengiriman telegraph yang disimpan di pita berupa lubang tutup. Untuk lubang sebanyak 6x      berturut-turut disebut sebagai kode 6-an.
+- Standard Code (Americank figure. for Information Interchange).
+  Didefinisikan sebagai kode 7 bit (sehingga dapat dibuat 128 karakter). Masing-masing yaitu 0-32 untuk karakter kontrol (unprintable) dan 32-127 untuk karakter yang tercetak (printable). Dalam transmisi synkron tiga karakter terdiri dari 10 atau 11 bit : 1 bit awal, 7 bit data, 1 atau 2 bit akhir dan 1 bit paritas.
+- Kode 4 atau Kode 8.
+  Kombinasi yang diijinkan adalah 4 bit “1” dan 4 bit “0” sehingga dapat dibuat kombinasi 70 karakter.
+- Kode BCD (binary code desimal).
+  Terdiri dari 6 bit perkarakter dengan kombinasi 64 karakter. Untuk asynkron terdiri dari 9 bit: 1 bit awal, 6 bit data, 1 bit paritas dan 1 bit akhir.
+- Kode EBCID.
+Menggunakan 8 bit perkarakter dengan 256 kombinasi karakter.
+
+## Teknik Encoding:
+
+Digital Data, Analog Signal (ASK, FSK, PSK, QAM)
+Analog Data, Analog Signal (AM, FM, PM)
+Analog Data, Digital Signal (PCM, DM)
+Digital Data, Digital Signal (NRZ, Manchester, Bi-Polar, Bi-Phase)
+
+### Sinyal Analog
+  Sinyal analog adalah sinyal data dalam bentuk gelombang kontinyu, yang membawa informasi dengan mengubah karakteristik gelombang. Dua parameter-karakteristik penting yang dimiliki oleh sinyal analog amplitudo dan frekuensi, Sinyal analog biasanya diwakili oleh gelombang sinus, mengingat gelombang sinus merupakan dasar untuk semua bentuk sinyal analog, Gelombang pada sinyal analog yang umumnya berbentuk gelombang sinus memiliki tiga variabledasar, yaitu amplitudo, frekuensi dan fase.
+
+1. Amplitudo adalah ukuran dari tegangan tinggi dan rendah dari sinyal analog.
+2. Frekuensi adalah jumlah gelombang sinyal analog dalam hitungan detik.
+3. Tahap adalah sudut besar sinyal analog pada saat tertentu.
+
+### Digital Signal
+Sinyal digital adalah sinyal data dalam bentuk pulsa yang dapat mengalami perubahan mendadak dan memiliki magnitudo 0 dan 1, Biasanya, sinyal ini juga dikenal sebagai sinyal diskrit. Sinyal memiliki dua Situasi ini sering disebut sebagai bit. Bit adalah istilah khas pada sinyal digital.
+
+### NRZ (Non Return To Zero) Signaling
+NRZ adalah teknik differential encoding Dalam NRZ, nilai-sinyal tinggi ‘1’ dalam bit biner, dan nilai-sinyal rendah ‘0’. NRZ dapat dibagi menjadi beberapa bagian, antara lain :
+1. NRZ-L (Non Return Zero-Level)
+2. NRZ-I (Non Return to Zero-Invert on ones)
+3. NRZ-M (Non Return to Zero-Mark)
+4. NRZ-S (Non Return to Zero-Space)
+
+### Manchester Encoding
+Manchester teknik encoding adalah salah satu teknik coding biphase, di mana ada transisi pada tiap babak periode bit, Manchester encoding memiliki beberapa keunggulan, seperti sinkronisasi yang baik karena transisi di setiap setengah dari bit dan penerima dapat mengatur transisi, hal itu disebut kode self-clocking, Manchester encoding juga tidak lagi mengandung komponen DC.
+
+### 4B / 5B KODE GROUP
+4B / 5B Kode Group adalah teknik coding yang memetakan blok bit informasi didefinisikan dalam sejumlah variabel m dan n. Jumlah bit dalam variabel n selalu lebih besar dari jumlah bit dalam variabel m, nilai n adalah jumlah bit dalam variabel m ditambah 1.
