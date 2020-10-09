@@ -12,7 +12,7 @@ RadioFrequensi (RF) mempunyai frekuensi sinyal yaitu dari 300 MHz sampai dengan 
 contoh, RF( RadioFrequency ) paling sering digunakan dalam produk volume sedang dan rendah untuk aplikasi konsumen seperti pembuka pintu garasi, sistem alarm atau pemantauan nirkabel, remote control industri , aplikasi sensor pintar, dan sistem otomasi rumah nirkabel .
 
 
-## Jenis Modul RF ( RadioFrequency )
+### Jenis Modul RF ( RadioFrequency )
 - modul pemancar
   Modul pemancar RF adalah sub-unit PCB kecil yang mampu mentransmisikan gelombang radio dan memodulasi gelombang tersebut untuk membawa data.
 - modul penerima
